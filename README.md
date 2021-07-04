@@ -8,3 +8,4 @@ you can import files from master and open it with eclipse to make changes in my 
 Main codes and form can be found on "src folder"
 you can use mysqlconnector for jdbc to connect ur MySql database with eclipse.
 I hope you can see my videos of prototype project of this to get idea or open this project in eclipse to see/ and modify my project 
+If i get time i will upload this project on youtube as well.
